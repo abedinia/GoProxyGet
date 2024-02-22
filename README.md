@@ -2,7 +2,7 @@
 
 GoProxyGet is a command-line utility written in GoLang that simplifies the process of downloading files through SOCKS5 proxies. It provides a convenient way to access online resources securely and anonymously by routing your requests through SOCKS5 proxy servers.
 
-## Features
+### Features:
 
 - **Effortless File Retrieval**: Downloading files through SOCKS5 proxies is made easy with GoProxyGet. It abstracts the complexities of proxy handling, allowing you to focus on downloading the data you need.
 
@@ -10,15 +10,16 @@ GoProxyGet is a command-line utility written in GoLang that simplifies the proce
 
 - **Customizable Configuration**: Tailor your proxy settings to match your specific requirements. GoProxyGet supports various SOCKS5 proxy configurations, including authentication methods and proxy chaining.
 
-- **Reliable Performance**: Enjoy fast and reliable downloads, thanks to GoLang's efficient concurrency and network libraries. GoProxyGet maximizes your download speed while minimizing resource usage.
+### Reliable Performance**: Enjoy fast and reliable downloads, thanks to GoLang's efficient concurrency and network libraries. GoProxyGet maximizes your download speed while minimizing resource usage.
 
-- **Cross-Platform Compatibility**: Whether you're working on Windows, macOS, or Linux, GoProxyGet is designed to work seamlessly across different operating systems.
+### Cross-Platform Compatibility**: Whether you're working on Windows, macOS, or Linux, GoProxyGet is designed to work seamlessly across different operating systems.
 
 - **Open-Source**: GoProxyGet is an open-source project, welcoming contributions from the community. Feel free to enhance its features or customize it to meet your unique needs.
 
-## Usage
+## Usage:
 
 To use GoProxyGet, you can follow this simple command-line syntax:
+
 
 ```bash
 go run main.go <proxy_address> <file_url>
